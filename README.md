@@ -1,9 +1,8 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)]()
 <h1 align="center">Hi 👋, I'm Sayak</h1>
 <h3 align="center">A passionate Web Developer and ML enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA">
-<br>
-<br>
+<img  alt="Coding"   width="500" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayak-2002&label=Profile%20views&color=0e75b6&style=flat" alt="sayak-2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayak-2002" alt="sayak-2002" /></a> </p>
